@@ -1,0 +1,8 @@
+[submodule ".04_Software03_Homework07_Helloworld_Githomework"]
+	path = .04_Software03_Homework07_Helloworld_Githomework
+	url = git@github.com:jacKeep/homework.git
+	branch = 07_RTOS_HelloWorld
+[submodule "04_Software/03_Homework/07_Helloworld_Git/homework"]
+	path = 04_Software/03_Homework/07_Helloworld_Git/homework
+	url = git@github.com:jacKeep/homework.git
+	branch = 07_RTOS_HelloWorld
