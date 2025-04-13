@@ -6,3 +6,11 @@
 	path = 04_Software/03_Homework/07_Helloworld_Git/homework
 	url = git@github.com:jacKeep/homework.git
 	branch = 07_RTOS_HelloWorld
+[submodule "04_Software/03_Homework/09_FreeRTOS_Queue_Key/homework"]
+	path = 04_Software/03_Homework/09_FreeRTOS_Queue_Key/homework
+	url = git@github.com:jacKeep/homework.git
+	branch = 09_Key
+[submodule "04_Software/03_Homework/09_FreeRTOS_Queue_Key_Led/homework"]
+	path = 04_Software/03_Homework/09_FreeRTOS_Queue_Key_Led/homework
+	url = git@github.com:jacKeep/homework.git
+	branch = 09_Key_led
