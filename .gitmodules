@@ -18,3 +18,7 @@
 	path = 04_Software/03_Homework/10_FreeRTOS_Queue_Key_Led_Multi_Ope/homework
 	url = git@github.com:jacKeep/homework.git
 	branch = 10_key_led_multi_ope
+[submodule "04_Software/03_Homework/11_FreeRTOS_Queue_Key_Led_Irq_Multi_Ope/homework"]
+	path = 04_Software/03_Homework/11_FreeRTOS_Queue_Key_Led_Irq_Multi_Ope/homework
+	url = git@github.com:jacKeep/homework.git
+	branch = 11_key_led_irq_multi_ope
