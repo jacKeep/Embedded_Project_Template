@@ -22,3 +22,11 @@
 	path = 04_Software/03_Homework/11_FreeRTOS_Queue_Key_Led_Irq_Multi_Ope/homework
 	url = git@github.com:jacKeep/homework.git
 	branch = 11_key_led_irq_multi_ope
+[submodule "04_Software/03_Homework/12_FreeRTOS_Queue_Key_Led_Timer_Irq_Multi_Ope"]
+	path = 04_Software/03_Homework/12_FreeRTOS_Queue_Key_Led_Timer_Irq_Multi_Ope
+	url = git@github.com:jacKeep/homework.git
+	branch = 12_led_timer_irq_multi_ope
+[submodule "04_Software/03_Homework/12_FreeRTOS_Queue_Zero_Copy"]
+	path = 04_Software/03_Homework/12_FreeRTOS_Queue_Zero_Copy
+	url = git@github.com:jacKeep/homework.git
+	branch = 13_key_led_zero_copy_ope
